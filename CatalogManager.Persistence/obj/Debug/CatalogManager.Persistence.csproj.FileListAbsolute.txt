@@ -1,0 +1,8 @@
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Persistence\bin\Debug\CatalogManager.Persistence.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Persistence\bin\Debug\CatalogManager.Persistence.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Persistence\obj\Debug\CatalogManager.Persistence.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Persistence\obj\Debug\CatalogManager.Persistence.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Persistence\obj\Debug\CatalogManager.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Persistence\bin\Debug\CatalogManager.Domain.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Persistence\bin\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Persistence\bin\Debug\CatalogManager.Persistence.dll.config

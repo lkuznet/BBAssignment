@@ -1,0 +1,7 @@
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.Services.dll
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.Services.pdb
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\obj\Debug\CatalogManager.Domain.Services.csprojResolveAssemblyReference.cache
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\obj\Debug\CatalogManager.Domain.Services.dll
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\obj\Debug\CatalogManager.Domain.Services.pdb
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.dll
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.pdb

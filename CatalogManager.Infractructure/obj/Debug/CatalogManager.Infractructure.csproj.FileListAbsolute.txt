@@ -1,0 +1,5 @@
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Infractructure\bin\Debug\CatalogManager.Infractructure.dll
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Infractructure\bin\Debug\CatalogManager.Infractructure.pdb
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Infractructure\obj\Debug\CatalogManager.Infractructure.csprojResolveAssemblyReference.cache
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Infractructure\obj\Debug\CatalogManager.Infractructure.dll
+c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Infractructure\obj\Debug\CatalogManager.Infractructure.pdb

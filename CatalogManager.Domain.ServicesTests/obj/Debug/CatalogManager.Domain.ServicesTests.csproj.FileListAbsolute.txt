@@ -1,0 +1,9 @@
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\bin\Debug\CatalogManager.Domain.ServicesTests.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\bin\Debug\CatalogManager.Domain.ServicesTests.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\bin\Debug\CatalogManager.Domain.Services.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\bin\Debug\CatalogManager.Domain.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\bin\Debug\CatalogManager.Domain.Services.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\bin\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\obj\Debug\CatalogManager.Domain.ServicesTests.csprojResolveAssemblyReference.cache
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\obj\Debug\CatalogManager.Domain.ServicesTests.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Domain.ServicesTests\obj\Debug\CatalogManager.Domain.ServicesTests.pdb

@@ -1,0 +1,15 @@
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.ApplicationTests.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.ApplicationTests.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Application.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Domain.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Domain.Services.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Application.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Domain.Services.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\obj\Debug\CatalogManager.ApplicationTests.csprojResolveAssemblyReference.cache
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\obj\Debug\CatalogManager.ApplicationTests.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\obj\Debug\CatalogManager.ApplicationTests.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Infractructure.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Infractructure.pdb
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Persistence.dll
+C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.ApplicationTests\bin\Debug\CatalogManager.Persistence.pdb
