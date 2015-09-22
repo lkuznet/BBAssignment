@@ -5,3 +5,10 @@ C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManag
 C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.DomainTests\bin\Debug\CatalogManager.Domain.pdb
 C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.DomainTests\obj\Debug\CatalogManager.DomainTests.dll
 C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.DomainTests\obj\Debug\CatalogManager.DomainTests.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.DomainTests\bin\Debug\CatalogManager.DomainTests.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.DomainTests\bin\Debug\CatalogManager.DomainTests.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.DomainTests\bin\Debug\CatalogManager.Domain.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.DomainTests\bin\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.DomainTests\obj\Debug\CatalogManager.DomainTests.csprojResolveAssemblyReference.cache
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.DomainTests\obj\Debug\CatalogManager.DomainTests.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.DomainTests\obj\Debug\CatalogManager.DomainTests.pdb

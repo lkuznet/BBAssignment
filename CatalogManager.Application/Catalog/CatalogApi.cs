@@ -15,25 +15,24 @@ namespace CatalogManager.Application.Catalog
     {
         private ICategoryRepository _categoryRepos;
         private ICatalogService _catalogService;
-        private System.Data.SqlClient.SqlConnection _sqlConnection;
 
-        public CatalogApi(SqlConnection sqlConnection)
-        {
-            _sqlConnection = sqlConnection;
-            _categoryRepos = new CategoryRepository(_sqlConnection);
-            _catalogService = new CatalogService(_categoryRepos);
-        }
+        //public CatalogApi(SqlConnection sqlConnection)
+        //{
+        //    _sqlConnection = sqlConnection;
+        //    _categoryRepos = new CategoryRepository(_sqlConnection);
+        //    _catalogService = new CatalogService(_categoryRepos);
+        //}
         public CatalogApi(ICategoryRepository categoryRepos, ICatalogService catalogService)
         {
             _categoryRepos = categoryRepos;
             _catalogService = catalogService;
         }
-         public CatalogApi(ICategoryRepository categoryRepos, ICatalogService catalogService, SqlConnection sqlConnection)
-        {
-            _sqlConnection = sqlConnection;
-            _categoryRepos = categoryRepos;
-            _catalogService = catalogService;
-        }
+        // public CatalogApi(ICategoryRepository categoryRepos, ICatalogService catalogService, SqlConnection sqlConnection)
+        //{
+        //    _sqlConnection = sqlConnection;
+        //    _categoryRepos = categoryRepos;
+        //    _catalogService = catalogService;
+        //}
         public string GetCatalog(int indent)
         {
             return _catalogService.DisplayCatalog(indent);

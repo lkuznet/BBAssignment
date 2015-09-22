@@ -15,15 +15,7 @@ namespace CatalogManager.Domain.Aggregates
             Description = description;
             Price = price;
         }
-        public Product(string name, string description, Money price, int id)
-            : this(name, description, price)
-        {
-            Id = id;
-        }
-        public Product(string name, int id) : base(name)
-        {
-            Id = id;
-        }
+ 
         private static void Validate(string name, string description)
         {
             if (string.IsNullOrEmpty(name) || name.Length > 50)

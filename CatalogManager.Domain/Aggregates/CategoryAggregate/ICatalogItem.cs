@@ -6,6 +6,7 @@ namespace CatalogManager.Domain.Aggregates
         int Id { get; set; }
         string Name { get; set; }
         ICatalogItem Parent { get; set; }
+        int? ParentId { get; set; }
         int ProductCount { get; set; }
         string Path { get; set; }
         List<ICatalogItem> Children { get; }

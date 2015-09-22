@@ -1,6 +1,9 @@
 ﻿using CatalogManager.Application;
 using CatalogManager.Application.Catalog;
+using CatalogManager.Domain.Aggregates;
+using CatalogManager.Domain.Services;
 using CatalogManager.Infractructure.Logging;
+using CatalogManager.Persistence.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -14,15 +17,14 @@ namespace CatalogManager.WebWeb
 {
     public partial class CatalogManager : System.Web.UI.Page
     {
-        SqlConnection _sqlConnection;
         ICatalogApi _catalogApi;
         ILog _log;
         protected void Page_Load(object sender, EventArgs e)
         {
-            _sqlConnection = new SqlConnection();
-            _sqlConnection.ConnectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ToString();
             _log = new DefaultLogging();
-            _catalogApi = new CatalogApiWithLogging(new CatalogApi(_sqlConnection), _log);
+            ICategoryRepository repos = new CategoryRepository();
+            ICatalogService svc = new CatalogService(repos);
+            _catalogApi = new CatalogApiWithLogging(new CatalogApi(repos, svc), _log);
 
         }
          protected void btnAddCategory_Click(object sender, EventArgs e)
@@ -67,7 +69,7 @@ namespace CatalogManager.WebWeb
                 if (result)
                 {
                     lblMessage.Text = "Success!";
-                    DisplayTree(_catalogApi);
+                    DisplayProducts(parentId);
                 }
                 else
                 {
@@ -103,12 +105,11 @@ namespace CatalogManager.WebWeb
             int.TryParse(hidId.Value, out id);
             if (id > 0)
             {
-                var catalogApi = new CatalogApi(_sqlConnection);
-                bool result = catalogApi.UpdateCategory(id, new CategoryDto { Name = name });
+                bool result = _catalogApi.UpdateCategory(id, new CategoryDto { Name = name });
                 if (result)
                 {
                     lblMessage.Text = "Success!";
-                    DisplayTree(catalogApi);
+                    DisplayTree(_catalogApi);
                 }
                 else
                 {
@@ -160,8 +161,7 @@ namespace CatalogManager.WebWeb
                 int.TryParse(lbChildren.SelectedValue, out id);
                 if (id > 0)
                 {
-                    var catalogApi = new CatalogApi(_sqlConnection);
-                    ProductDto product = catalogApi.GetProduct(id);
+                    ProductDto product = _catalogApi.GetProduct(id);
 
                     txtProdName.Text = product.Name;
                     txtProdDescr.Text = product.Description;
@@ -214,12 +214,11 @@ namespace CatalogManager.WebWeb
             int.TryParse(hidId.Value, out categoryId);
             if (categoryId > 0)
             {
-                var catalogApi = new CatalogApi(_sqlConnection);
-               bool  result = catalogApi.RemoveCategory(categoryId);
+               bool  result = _catalogApi.RemoveCategory(categoryId);
                  if (result)
                  {
                      lblMessage.Text = "Success!";
-                     DisplayTree(catalogApi);
+                     DisplayTree(_catalogApi);
                  }
                  else
                  {

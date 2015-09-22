@@ -5,3 +5,10 @@ c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManag
 c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\obj\Debug\CatalogManager.Domain.Services.pdb
 c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.dll
 c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.Services.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.Services.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain.Services\bin\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain.Services\obj\Debug\CatalogManager.Domain.Services.csprojResolveAssemblyReference.cache
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain.Services\obj\Debug\CatalogManager.Domain.Services.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain.Services\obj\Debug\CatalogManager.Domain.Services.pdb

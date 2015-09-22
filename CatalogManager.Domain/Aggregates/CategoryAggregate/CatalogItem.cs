@@ -7,6 +7,7 @@ namespace CatalogManager.Domain.Aggregates
         public int Id { get; set; }
         public string Name { get; set; }
         public ICatalogItem Parent { get; set; }
+        public int? ParentId { get; set; }
         public int ProductCount { get; set; }
         public string Path { get; set; }
 
@@ -14,7 +15,6 @@ namespace CatalogManager.Domain.Aggregates
 
         public CatalogItem(string name)
         {
-            //          Id = Guid.NewGuid();
             this.Name = name;
             Children = new List<ICatalogItem>();
         }

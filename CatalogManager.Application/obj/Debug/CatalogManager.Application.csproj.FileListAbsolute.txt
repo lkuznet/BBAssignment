@@ -11,3 +11,16 @@ C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManag
 C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Application\bin\Debug\CatalogManager.Persistence.pdb
 C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Application\bin\Debug\CatalogManager.Infractructure.dll
 C:\Users\Other\Documents\Visual Studio 2013\Projects\CatalogManager\CatalogManager.Application\bin\Debug\CatalogManager.Infractructure.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Application.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Application.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Domain.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Domain.Services.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Infractructure.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Persistence.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Domain.Services.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Infractructure.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\bin\Debug\CatalogManager.Persistence.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\obj\Debug\CatalogManager.Application.csprojResolveAssemblyReference.cache
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\obj\Debug\CatalogManager.Application.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Application\obj\Debug\CatalogManager.Application.pdb

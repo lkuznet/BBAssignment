@@ -13,17 +13,6 @@ namespace CatalogManager.Domain.Aggregates
             Validate(name);
         }
 
-        public Category(string name, int id)
-            : this(name)
-        {
-            Id = id;
-        }
-
-        public Category(string name, int id, string path)
-            : this(name, id)
-        {
-            Path = path;
-        }
         private static void Validate(string name)
         {
             if (string.IsNullOrEmpty(name) || name.Length > 25)

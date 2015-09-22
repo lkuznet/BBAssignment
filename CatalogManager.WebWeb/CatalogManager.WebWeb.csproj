@@ -393,6 +393,10 @@
       <Project>{1bbb6c6b-b69d-4968-858c-90a9efc62e61}</Project>
       <Name>CatalogManager.Application</Name>
     </ProjectReference>
+    <ProjectReference Include="..\CatalogManager.Domain.Services\CatalogManager.Domain.Services.csproj">
+      <Project>{9243a079-6565-49af-8101-52f77e8429df}</Project>
+      <Name>CatalogManager.Domain.Services</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CatalogManager.Domain\CatalogManager.Domain.csproj">
       <Project>{c9c87da7-f26c-4e32-a142-ce9b3c868bc3}</Project>
       <Name>CatalogManager.Domain</Name>
@@ -400,6 +404,10 @@
     <ProjectReference Include="..\CatalogManager.Infractructure\CatalogManager.Infractructure.csproj">
       <Project>{33a57f9f-2c69-4aef-8a00-111e93b8e53c}</Project>
       <Name>CatalogManager.Infractructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CatalogManager.Persistence\CatalogManager.Persistence.csproj">
+      <Project>{6b58e315-8586-417c-a745-15e2110095a5}</Project>
+      <Name>CatalogManager.Persistence</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

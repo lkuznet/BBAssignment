@@ -3,3 +3,8 @@ c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManag
 c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain\obj\Debug\CatalogManager.Domain.csprojResolveAssemblyReference.cache
 c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain\obj\Debug\CatalogManager.Domain.dll
 c:\users\other\documents\visual studio 2013\Projects\CatalogManager\CatalogManager.Domain\obj\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain\bin\Debug\CatalogManager.Domain.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain\bin\Debug\CatalogManager.Domain.pdb
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain\obj\Debug\CatalogManager.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain\obj\Debug\CatalogManager.Domain.dll
+C:\Users\Other\Documents\GitHub\BBAssignment\CatalogManager.Domain\obj\Debug\CatalogManager.Domain.pdb
